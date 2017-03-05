@@ -1,4 +1,5 @@
-typography_spectrum: 0.18754117435950896
+layout_spectrum: 0.18868695670286986
+typography_spectrum: 0.22579406091675974
 color:
   brandColors:
     - '#023145'
@@ -6,12 +7,11 @@ color:
     - '#0173A9'
     - '#00F5FA'
     - '#F5FDFF'
-  brandStrength: 0.7303680326436452
-  lightness: 0.3846581360280956
-  saturation: 0.4880754845472292
-  rhythmicContrast: 0.6339243223076446
+  brandStrength: 0.027104246609724394
+  lightness: 0.7872427576334022
+  saturation: 0.26593396390345647
+  rhythmicContrast: 0.8021162375295996
 github: true
-layout_spectrum: 0.7019143404379155
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabd7eb-68d5-4f55-b991-6275d9aaf536.png
 name: 'Netthanedels Portalen '
