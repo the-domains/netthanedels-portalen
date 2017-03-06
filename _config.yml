@@ -1,4 +1,5 @@
-typography_spectrum: 0.17906416047410578
+layout_spectrum: 0.3434775630879852
+typography_spectrum: 0.7073293877677936
 color:
   brandColors:
     - '#25064D'
@@ -6,12 +7,11 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-  brandStrength: 0.8753214157659487
-  lightness: 0.580596581992813
-  saturation: 0.3597847010958755
-  rhythmicContrast: 0.29000648012172686
+  brandStrength: 0.17792876323731155
+  lightness: 0.4177028594782004
+  saturation: 0.1753993590950671
+  rhythmicContrast: 0.39717562704236425
 github: true
-layout_spectrum: 0.17806693145590327
 author:
   name: Netthandelsportalen
   email: post@netthandelsportalen.no
