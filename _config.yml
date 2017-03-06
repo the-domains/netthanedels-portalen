@@ -1,5 +1,5 @@
-layout_spectrum: 0.9294036740449138
-typography_spectrum: 0.22852689926401887
+layout_spectrum: 0.8120048813525551
+typography_spectrum: 0.01659691012639663
 color:
   brandColors:
     - '#25064D'
@@ -7,10 +7,10 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-  brandStrength: 0.6049688611479273
-  lightness: 0.3054829638326854
-  saturation: 0.7681848797761825
-  rhythmicContrast: 0.8997152073844566
+  brandStrength: 0.9207878361421978
+  lightness: 0.6191602498582462
+  saturation: 0.022383268350679983
+  rhythmicContrast: 0.9529958069052473
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabd7eb-68d5-4f55-b991-6275d9aaf536.png
