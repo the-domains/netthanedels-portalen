@@ -1,4 +1,3 @@
-layout_spectrum: 0.17806693145590327
 typography_spectrum: 0.17906416047410578
 color:
   brandColors:
@@ -12,9 +11,14 @@ color:
   saturation: 0.3597847010958755
   rhythmicContrast: 0.29000648012172686
 github: true
+layout_spectrum: 0.17806693145590327
+author:
+  name: Netthandelsportalen
+  email: post@netthandelsportalen.no
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabd7eb-68d5-4f55-b991-6275d9aaf536.png
 name: 'Netthanedels Portalen '
+url: 'https://cloudportalen.link/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -25,6 +29,9 @@ colors:
 navigation:
   - name: main site
     url: 'https://www.netthandelsportalen.no:444/'
+    type: external
+  - name: en test
+    url: 'https://startsiden.no'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f718f7f8-6895-4cb1-963c-96f92befad1d.png
@@ -38,19 +45,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/aec10a03-fcfe-45b7-9bc5-d5204fe99f46.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,7 +69,3 @@ purpose:
   - type: external
     url: 'https://www.netthandelsportalen.no:444/'
     label: netthandelsportalen.no
-author:
-  name: Netthandelsportalen
-  email: post@netthandelsportalen.no
-url: 'https://cloudportalen.link/'
