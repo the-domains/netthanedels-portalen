@@ -30,9 +30,6 @@ navigation:
   - name: main site
     url: 'https://www.netthandelsportalen.no:444/'
     type: external
-  - name: en test
-    url: 'https://startsiden.no'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f718f7f8-6895-4cb1-963c-96f92befad1d.png
 title: Netthandelsportalen
