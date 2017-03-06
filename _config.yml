@@ -1,5 +1,5 @@
-layout_spectrum: 0.8120048813525551
-typography_spectrum: 0.01659691012639663
+layout_spectrum: 0.17806693145590327
+typography_spectrum: 0.17906416047410578
 color:
   brandColors:
     - '#25064D'
@@ -7,10 +7,10 @@ color:
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
-  brandStrength: 0.9207878361421978
-  lightness: 0.6191602498582462
-  saturation: 0.022383268350679983
-  rhythmicContrast: 0.9529958069052473
+  brandStrength: 0.8753214157659487
+  lightness: 0.580596581992813
+  saturation: 0.3597847010958755
+  rhythmicContrast: 0.29000648012172686
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabd7eb-68d5-4f55-b991-6275d9aaf536.png
@@ -47,7 +47,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
