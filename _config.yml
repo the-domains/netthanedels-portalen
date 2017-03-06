@@ -27,7 +27,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: main site
+  - name: Meny
     url: 'https://www.netthandelsportalen.no:444/'
     type: external
 favicon: >-
