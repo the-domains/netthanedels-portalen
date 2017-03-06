@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Netthandelsportalen]]></title>
+        <description><![CDATA[Netthandelsportalen]]></description>
+        <link>http://cloudportalen.link/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 06 Mar 2017 04:03:39 GMT</lastBuildDate>
+        <atom:link href="http://cloudportalen.link/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hva skjer?</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd9289f5-72e5-40aa-ac51-6f69ff3d228d.jpg">,<ol><li></li></ol>,<button data-role="cta">Open</button>,<button data-role="cta">ohu8</button>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f513c117-e438-41d2-bf0b-53d3a3bd8903.jpg">,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244"></iframe>,<p>dette er en test</p>]]></description>
+            <link>http://cloudportalen.link/hva-skjer/index.html</link>
+            <guid isPermaLink="false">27c1164b-5727-47c8-9d53-f13b6dfaab99</guid>
+            <pubDate>Mon, 06 Mar 2017 04:02:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
