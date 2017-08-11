@@ -6,9 +6,9 @@ description: >-
   nyeste eSport-spillene og MOBA til de mest populære, grafisk intense
   AAA-tiltlene. Utviklingen av FinFET 14-prosessoren har gjort det mulig for den
   nye RX 500-serien å oppnå høyere klokkefrekvens sammenlignet med tidligere
-  generasjoner. 
-dateModified: '2017-08-11T23:00:01.765Z'
-datePublished: '2017-08-11T23:00:02.405Z'
+  generasjoner.
+dateModified: '2017-08-11T23:43:09.299Z'
+datePublished: '2017-08-11T23:43:09.519Z'
 title: ''
 author: []
 publisher: {}
