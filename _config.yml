@@ -1,16 +1,16 @@
-layout_spectrum: 0.5089016573798686
-typography_spectrum: 0.3447061448169891
+layout_spectrum: 0.3033693690254067
+typography_spectrum: 0.6938747675647718
 color:
   brandColors:
-    - '#1A1F2B'
-    - '#30395C'
-    - '#4A6491'
-    - '#85A5CC'
-    - '#D0E4F2'
-  brandStrength: 0.5522413718864544
-  lightness: 0.4182405327339795
-  saturation: 0.6713295369231982
-  rhythmicContrast: 0.39453201074632677
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.17714515843705303
+  lightness: 0.41519055972050983
+  saturation: 0.3966848752033519
+  rhythmicContrast: 0.3927084549183561
 github: true
 author:
   name: Netthandelsportalen
