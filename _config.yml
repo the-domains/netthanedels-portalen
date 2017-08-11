@@ -28,9 +28,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Meny
-    url: 'https://www.netthandelsportalen.no:444/'
-    type: external
   - name: ggggg
     id: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
     type: content
