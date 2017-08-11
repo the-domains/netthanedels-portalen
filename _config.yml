@@ -1,17 +1,17 @@
-typography_spectrum: 0.6938747675647718
+layout_spectrum: 0.6106815943899242
+typography_spectrum: 0.23698880783955356
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.17714515843705303
-  lightness: 0.41519055972050983
-  saturation: 0.3966848752033519
-  rhythmicContrast: 0.3927084549183561
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.4552633516393639
+  lightness: 0.11201936113638895
+  saturation: 0.6161834868467828
+  rhythmicContrast: 0.45725092869344175
 github: true
-layout_spectrum: 0.3033693690254067
 author:
   name: Netthandelsportalen
   email: post@netthandelsportalen.no
