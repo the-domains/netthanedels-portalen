@@ -15,11 +15,11 @@ github: true
 author:
   name: Netthandelsportalen
   email: post@netthandelsportalen.no
-  url: 'http://cryptobytte.no'
+  url: 'http://byttecrypto.no'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fabd7eb-68d5-4f55-b991-6275d9aaf536.png
 name: 'Netthanedels Portalen '
-url: 'http://cloudportalen.link/'
+url: 'http://byttecrypto.no/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -48,7 +48,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
