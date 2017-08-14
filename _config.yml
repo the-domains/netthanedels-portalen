@@ -13,7 +13,7 @@ color:
   rhythmicContrast: 0.6994207340072249
 github: true
 author:
-  name: Netthandelsportalen
+  name: Netthandelsportalen Da
   email: post@netthandelsportalen.no
   url: 'http://byttecrypto.no'
 logo: >-
@@ -64,3 +64,5 @@ purpose:
     label: netthandelsportalen.no
 analytics:
   facebook: ''
+content_rating:
+  adult: false
