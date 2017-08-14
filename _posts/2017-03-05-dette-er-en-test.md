@@ -1,9 +1,19 @@
 ---
 inFeed: true
 description: hva skjer?
-dateModified: '2017-03-06T19:09:25.262Z'
-datePublished: '2017-08-11T22:58:00.422Z'
-title: ''
+dateModified: '2017-08-14T02:15:21.521Z'
+datePublished: '2017-08-14T02:15:23.877Z'
+title: >-
+
+
+
+
+  SAPPHIRE NITRO + RADEON™ RX 580 grafikkort bygger på den framtidssikre
+  Polaris-arkitekturen. Spiller favorittene dine med jevne 1080p bilder, fra de
+  nyeste eSport-spillene og MOBA til de mest populære, grafisk intense
+  AAA-tiltlene. Utviklingen av FinFET 14-prosessoren har gjort det mulig for den
+  nye RX 500-serien å oppnå høyere klokkefrekvens sammenlignet med tidligere
+  generasjoner.
 author: []
 publisher: {}
 via: {}
@@ -16,11 +26,11 @@ _type: Article
 
 ---
 hva skjer?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f753723d-20d4-4d1d-a925-0314d6f57574.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d4e0d45b5cc10581aab1f1fffbeadf6113a341d.jpg)
 
 1. <button data-role="cta" style="">Open</button>
 
-<button data-role="cta" style="">ohu8</button>
+<button data-role="cta" style="">Open</button>
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
 
