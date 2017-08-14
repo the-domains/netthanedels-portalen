@@ -1,16 +1,16 @@
-layout_spectrum: 0.8075758331049566
-typography_spectrum: 0.9268410395040629
+layout_spectrum: 0.6025316330184699
+typography_spectrum: 0.2743169713284046
 color:
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  brandStrength: 0.48782810715672625
-  lightness: 0.11286820746663183
-  saturation: 0.36436006469818033
-  rhythmicContrast: 0.6994207340072249
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.2346842477058457
+  lightness: 0.31560527248769116
+  saturation: 0.6106350670286482
+  rhythmicContrast: 0.7609983729474283
 github: true
 author:
   name: Netthandelsportalen Da
