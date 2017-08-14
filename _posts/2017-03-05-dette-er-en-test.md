@@ -1,19 +1,9 @@
 ---
 inFeed: true
 description: hva skjer?
-dateModified: '2017-08-14T02:16:28.173Z'
-datePublished: '2017-08-14T02:16:29.321Z'
-title: >-
-
-
-
-
-  SAPPHIRE NITRO + RADEON™ RX 580 grafikkort bygger på den framtidssikre
-  Polaris-arkitekturen. Spiller favorittene dine med jevne 1080p bilder, fra de
-  nyeste eSport-spillene og MOBA til de mest populære, grafisk intense
-  AAA-tiltlene. Utviklingen av FinFET 14-prosessoren har gjort det mulig for den
-  nye RX 500-serien å oppnå høyere klokkefrekvens sammenlignet med tidligere
-  generasjoner.
+dateModified: '2017-08-14T02:19:28.415Z'
+datePublished: '2017-08-14T02:19:31.974Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -25,6 +15,8 @@ url: hva-skjer/index.html
 _type: Article
 
 ---
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJy1V11z2jgUfc-vuENneFnAQEiWQMIMaUmbmZawhJ12nzrCvtiKZckjyW7or98rY_NVstt2u3kISLrS_dA5V4frqAPGrgXe1BKmQy6bAld20E6fh1BOaB5G5YzFZ9tkgody4KO0qGuja5MyWR2xUtI2Df-Kg_PL9PnU4oolXKwHsWA5j9nnpRLBkZmvhNKDV2122Q5WR2tL5sehVpkMmqXZqvirjR7Hs9m7-_mkLpcmHf4G8_GbycMU6lazAIeb2WvPnTU6_bHU4I3OXsim2_4mm9J_p3MizO_M9OVsZvP7x9vJ-_qDEcxEw-kC3kwe799OG7B4mM3gr8Xk_ePkH9Pxos7o7Ow6HV3zJAQm7E2tBhG6q7ypdS76NTDav6l5mUFtPGMxRxmtUX9O1sYqjZ-l8njCQjTeSulmpKTSrVSGtW2OQjE7KLBRgy88sNFNrdvt1KiK115a-K5MT6CmupB_NTxV86sLdsEuX4Rep-cu63YdhmghrTPNZTiElcbE8sBotJbmZ0rQggGmY24xtplugEm5EKihwhJM7xfzByAwEYaUrMAE809w0W9DqNmKx7HSFgIuEVYsV5rT6Ro4oIQnzCV02v12CiqEzKocyclKMwgQ5Bqp6ICPKe03G9fO7MPD7diA5cIZJWQDqUozUWdIZRlqbGzcmhg4FUganiOMx-Om5ZZCb23q-qclyAlKm6JgOdxxeTdZQKcHqVYGjaHpiGnnRTBL0dOY4inyarebhAhOM3TtUBVPpamsvkd1tUEloQUhFiqOKWPKzWQu8IDidAvkGzUzT4o-Wsfg_HX4-H4gneBB96JT8iCyNh14nh_IlmFpGnGNkluttiOLftTyVeJN3bTHqIjWEENCL0yzZrcV8tWWBr3e5T4NRvVX51fD3einoH8M71O8-H3V9_tFk6EQZTj6I-N-DK-VlOhT6TeT9ofv4qcp-AGDLYUSFaAjV6NA3pZhWZqSEZfSMOtgmdDI8A0c7-jk1xFSCoZ6EiZEUJUA0RaWOiPMEeXMExL6IH6qMEke0MXDLIEx52znaaH5p09w3mo3iQTEoSRnZFoSpur-m4-7PeSL6mRDZLWwdKxNLHFdOjItBSZoiZN8L6f9slM9ithpK8VFfIgdyVHGKPaOluSqjORdTk0pcOba7Tjw42gYuJbcAO7S3pSBrCz9I9Jtgya4ZlQeYmGEgspDLYZ2N3chpkzbYj2nRkN1p16TFRESi6l2Lp7CdUDIj6lNuX4U0zvlLIoWSc0hYjIoyl1GvmDkSFoW2-IWd3eSGqqAS2m_oywR6DLLDHdey7O2gcZMMlGFW0TLtGay6DAuGh6gC-iolmX3CjDc-kuUtewovf-xLZ18da96P_LqUnz7TaXb6x42lYNQfmRIyqAab0TCd02cFliH-mpDn_HH8fxN8-P9dHo_fbsvXGA2md89zD-Mp68npwXKL-zFe6W6zbgg8hBPInqlM-IGuiagVnsqwI9IBvhuqVGYHWqASgJ8qwAoIN-Az3QAqWBrA2uV6UoKIJ1sgYFJlLJRqQWINoT-tZKBEwNEAueO3mH31ldyIGSJ20uWpR5QhVWiKj3AdKPyzoRYNw_EABRiwLRgQXswVyKznLKnfN0hB2rAJzVAHZl8CaG-EG2dhcQvpRaAR6cFCv-MKkRwhYjATFT0hfJjUz37qcacK_qyefWdO9Pa1p9cyeQ9t6qIeN1t9Z8pFY0z1ETThEkfwYOPJEW2W3agCJCOxecdjS77F_8dKJTbsa4teXZ1ua9ho_NTv456L_0Y2rLmfHT2N-M_h9w" height="244" style=""></iframe>
+
 hva skjer?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d4e0d45b5cc10581aab1f1fffbeadf6113a341d.jpg)
 
