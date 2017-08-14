@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: hva skjer?
-dateModified: '2017-08-14T02:22:49.256Z'
-datePublished: '2017-08-14T02:22:50.051Z'
+dateModified: '2017-08-14T02:24:08.471Z'
+datePublished: '2017-08-14T02:24:12.289Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-11T22:58:00.422Z'
 url: hva-skjer/index.html
-_type: Article
+_type: MediaObject
 
 ---
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="1" style=""></iframe>
