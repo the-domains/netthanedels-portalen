@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: hva skjer?
-dateModified: '2017-08-14T02:21:54.185Z'
-datePublished: '2017-08-14T02:21:55.680Z'
+dateModified: '2017-08-14T02:22:12.212Z'
+datePublished: '2017-08-14T02:22:12.835Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ url: hva-skjer/index.html
 _type: Article
 
 ---
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" height="1" style=""></iframe>
 
 hva skjer?
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d4e0d45b5cc10581aab1f1fffbeadf6113a341d.jpg)
