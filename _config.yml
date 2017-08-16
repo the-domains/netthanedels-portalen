@@ -32,9 +32,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Test
-    id: 7a89d729-5b3b-4c7b-96e4-de5156c73381
-    type: content
   - name: Bitcoin
     id: 1933767b-4010-4b4d-b011-785e73b4d5bd
     type: content
