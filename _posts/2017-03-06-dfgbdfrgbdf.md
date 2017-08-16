@@ -7,8 +7,8 @@ description: >-
   AAA-tiltlene. Utviklingen av FinFET 14-prosessoren har gjort det mulig for den
   nye RX 500-serien å oppnå høyere klokkefrekvens sammenlignet med tidligere
   generasjoner.
-dateModified: '2017-08-11T23:43:09.299Z'
-datePublished: '2017-08-11T23:43:09.519Z'
+dateModified: '2017-08-16T10:21:04.718Z'
+datePublished: '2017-08-16T10:21:05.726Z'
 title: ''
 author: []
 publisher: {}
