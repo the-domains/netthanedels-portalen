@@ -38,6 +38,9 @@ navigation:
   - name: Bitcoin
     id: 1933767b-4010-4b4d-b011-785e73b4d5bd
     type: content
+  - name: ' bnbvnmb'
+    id: 27c1164b-5727-47c8-9d53-f13b6dfaab99
+    type: content
 favicon: null
 title: Netthandelsportalen
 content:
