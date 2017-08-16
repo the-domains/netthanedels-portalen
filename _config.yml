@@ -31,10 +31,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: hnngfgn
-    id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
-    type: content
 favicon: null
 title: Netthandelsportalen
 content:
