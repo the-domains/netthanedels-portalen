@@ -32,9 +32,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: dgdgdg
-    id: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
-    type: content
   - name: edgrgg
     id: 7a89d729-5b3b-4c7b-96e4-de5156c73381
     type: content
