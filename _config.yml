@@ -1,5 +1,6 @@
-layout_spectrum: 0.6025316330184699
 typography_spectrum: 0.2743169713284046
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#1A1F2B'
@@ -12,6 +13,9 @@ color:
   saturation: 0.6106350670286482
   rhythmicContrast: 0.7609983729474283
 github: true
+layout_spectrum: 0.6025316330184699
+analytics:
+  facebook: ''
 author:
   name: Netthandelsportalen Da
   email: post@netthandelsportalen.no
@@ -27,6 +31,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Test
+    id: 7a89d729-5b3b-4c7b-96e4-de5156c73381
+    type: content
 favicon: null
 title: Netthandelsportalen
 content:
@@ -38,19 +46,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/588663f9-7022-48c0-a3c0-2cb8fcf5ed09.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -62,7 +70,3 @@ purpose:
   - type: external
     url: 'https://www.netthandelsportalen.no:444/'
     label: netthandelsportalen.no
-analytics:
-  facebook: ''
-content_rating:
-  adult: false
