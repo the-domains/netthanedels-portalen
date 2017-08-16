@@ -1,5 +1,6 @@
-layout_spectrum: 0.13528048288243094
 typography_spectrum: 0.8412197099939579
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#1A1F2B'
@@ -11,9 +12,8 @@ color:
   lightness: 0.4425353063690928
   saturation: 0.6182350231771643
   rhythmicContrast: 0.419312139217751
-content_rating:
-  adult: false
 github: true
+layout_spectrum: 0.13528048288243094
 analytics:
   facebook: ''
 author:
@@ -31,6 +31,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: dgdgdg
+    id: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
+    type: content
 favicon: null
 title: Netthandelsportalen
 content:
