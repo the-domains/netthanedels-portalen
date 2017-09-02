@@ -75,7 +75,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -88,6 +87,3 @@ purpose:
   - type: contact
     url: 'mailto:post@netthandelsportalen.no'
     label: Kontakt oss
-  - type: external
-    url: 'https://www.netthandelsportalen.no:444/'
-    label: netthandelsportalen.no
