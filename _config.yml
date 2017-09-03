@@ -163,6 +163,3 @@ purpose:
   - type: contact
     url: 'mailto:post@netthandelsportalen.no'
     label: Kontakt oss
-  - type: contact
-    url: 'tel:41004263'
-    label: Ring 41004263
