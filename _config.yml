@@ -31,6 +31,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: ' om oss'
+    id: 1933767b-4010-4b4d-b011-785e73b4d5bd
+    type: content
 favicon: null
 title: Netthandelsportalen
 content:
@@ -42,19 +46,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dea6716f-0b44-4f8b-a475-d11b6471879d.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -66,19 +70,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e714e2-5467-4db5-b9d7-930a25bce274.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -90,19 +94,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d7222f-0fd1-4566-a183-5722121a4492.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -114,19 +118,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/a97efe39-5afb-4e9d-88db-756130ebd222.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -138,20 +142,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab1bf32-3619-4537-8b91-017184bfc9fd.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
