@@ -159,7 +159,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Nettbutikk, Trading, Coaching'
-purpose:
-  - type: contact
-    url: 'mailto:post@netthandelsportalen.no'
-    label: Kontakt oss
+purpose: []
