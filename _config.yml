@@ -32,9 +32,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: ' om oss'
-    id: 1933767b-4010-4b4d-b011-785e73b4d5bd
-    type: content
   - name: Kontakt
     id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
     type: content
