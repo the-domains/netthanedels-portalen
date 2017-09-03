@@ -32,7 +32,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: Kontakt
+  - name: Kontakt oss
     id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
     type: content
 favicon: null
