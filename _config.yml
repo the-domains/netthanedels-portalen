@@ -162,5 +162,5 @@ content:
 description: 'Nettbutikk, Trading, Coaching'
 purpose: []
 opengraph:
-  type: 'https://www.facebook.com/netthandelsportalen'
-  appId: 'https://www.facebook.com/netthandelsportalen'
+  type: ''
+  appId: ''
