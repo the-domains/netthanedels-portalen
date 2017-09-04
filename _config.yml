@@ -19,11 +19,11 @@ analytics:
 author:
   name: Netthandelsportalen Da
   email: post@netthandelsportalen.no
-  url: 'http://cryptobanken.no'
+  url: 'https://cryptobanken.no'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ee1248-f450-4a0b-9a40-1e3c7d1289cb.png
 name: Hvem er vi
-url: 'http://cryptobanken.no'
+url: 'https://cryptobanken.no/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
