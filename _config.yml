@@ -23,7 +23,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ee1248-f450-4a0b-9a40-1e3c7d1289cb.png
 name: Hvem er vi
-url: 'http://byttecrypto.com'
+url: 'http://byttecrypto.se/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -35,8 +35,7 @@ navigation:
   - name: Kontakt oss
     id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1f272340-9951-41a6-b8c6-78c3ed76b7c7.png
+favicon: null
 title: Netthandelsportalen
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
