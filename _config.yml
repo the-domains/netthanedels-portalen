@@ -38,9 +38,6 @@ navigation:
   - name: Kontakt oss
     id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
     type: content
-  - name: ret
-    id: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/651eeec0-11c1-4b67-881a-0b3bb8c64689.png
 title: Netthandelsportalen
