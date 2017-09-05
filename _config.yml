@@ -13,6 +13,9 @@ color:
   saturation: 0.6182350231771643
   rhythmicContrast: 0.419312139217751
 github: true
+opengraph:
+  type: ''
+  appId: ''
 layout_spectrum: 0.13528048288243094
 analytics:
   facebook: ''
@@ -22,7 +25,7 @@ author:
   url: 'http://cryptobanken.no'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ee1248-f450-4a0b-9a40-1e3c7d1289cb.png
-name: Hvem er vi
+name: ' '
 url: 'https://cryptobanken.no/'
 colors:
   brandColors:
@@ -34,6 +37,9 @@ colors:
 navigation:
   - name: Kontakt oss
     id: 8bf4c914-13c3-4b79-8da6-71c2c3b5892f
+    type: content
+  - name: ret
+    id: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/651eeec0-11c1-4b67-881a-0b3bb8c64689.png
@@ -161,6 +167,3 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Nettbutikk, Trading, Coaching'
 purpose: []
-opengraph:
-  type: ''
-  appId: ''
