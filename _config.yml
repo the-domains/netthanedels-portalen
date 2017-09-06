@@ -163,7 +163,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'Nettbutikk, Trading, Coaching'
-purpose:
-  - type: internal
-    label: test
-    item: a80cd8c8-b0c1-4c07-a290-9ad9b23f6378
+purpose: []
